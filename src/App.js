@@ -5,6 +5,8 @@ import Chart from './components/Chart';
 import Filter from './Filter';
 import Footer from './Footer';
 import Introduction from './Introduction';
+import Navigation from './Navigation';
+
 
 class App extends Component {
 
